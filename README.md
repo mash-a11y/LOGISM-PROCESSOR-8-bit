@@ -25,3 +25,6 @@ This implementation serves as a learning-oriented simulation of a simple process
 - Logisim-evolution
 - Digital Logic Design
 - Computer Architecture Concepts
+
+# **Simulation Environment**
+The CPU design was created and tested using Logisim-evolution. The simulation environment allows visualization of signal flow, clock synchronization, and processor operations in real time.
